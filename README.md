@@ -1,4 +1,4 @@
-#👋 Hi, I’m @AyoubLADJICI
+##👋 Hi, I’m @AyoubLADJICI
 
 - 👀 I’m interested in embedded systems, IoT, cybersecurity and AI.
 - 🌱 I’m currently learning advanced microcontroller programming, radar 2D mapping, and AI-driven job recommendation systems.
