@@ -1,11 +1,9 @@
 ## Hi👋, I'm Ayoub LADJICI
 
-🌱. I'm studying electronic and computer science at Polytech Sorbonne in Paris France but in my free time I like to use my fronted dev skills.
-
- 🔭. I'm currently working on [MonUFR](https://app.monufr.fr), it's an app dedicated to students of all french universities wich allow students to acces their timetable on their phones. Check out the Github Repo to see more.
-I'm also working with a friend on a game called [WikiChallenge](https://github.com/Valadri-games/WikiChallenge-website), it's currently in beta but it will be available soon.
-
-📫. Feel free to reach me on my [LinkedIn account](https://linkedin.com/in/valentin-le-lievre) or with my [email](valentin.le_lievre@etu.sorbonne-universite.fr)
+- 👀 I’m interested in embedded systems, IoT, and AI, with a strong focus on innovation and practical solutions.
+- 🌱 I’m currently learning advanced microcontroller programming, radar 2D mapping, and AI-driven job recommendation systems.
+- 💞️ I’m looking to collaborate on IoT projects, AI-based applications, and innovative solutions for smart environments.
+- 📫 How to reach me: ayoub.ladjici@example.com or via LinkedIn [LinkedIn Profile URL].
 
 <!--
 **valentin-llv/valentin-llv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
