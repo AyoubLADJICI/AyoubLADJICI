@@ -1,12 +1,23 @@
-##Hi, I’m @AyoubLADJICI
+## Hi there 👋, I'm Valentin Le Lievre
 
-👀 I’m interested in embedded systems, IoT, cybersecurity and AI.
-🌱 I’m currently learning advanced microcontroller programming, radar 2D mapping, and AI-driven job recommendation systems.
-💞️ I’m looking to collaborate on IoT projects, AI-based applications, and innovative solutions for smart environments.
-📫 How to reach me: ayoub.ladjici@example.com or via LinkedIn [https://www.linkedin.com/in/ayoub-ladjici-560528238/].
-⚡ Fun fact: I once turned ping-pong moments into a creative project inspiration. 🎉
+🌱. I'm studying electronic and computer science at Polytech Sorbonne in Paris France but in my free time I like to use my fronted dev skills.
 
-<!---
-AyoubLADJICI/AyoubLADJICI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🔭. I'm currently working on [MonUFR](https://app.monufr.fr), it's an app dedicated to students of all french universities wich allow students to acces their timetable on their phones. Check out the Github Repo to see more.
+I'm also working with a friend on a game called [WikiChallenge](https://github.com/Valadri-games/WikiChallenge-website), it's currently in beta but it will be available soon.
+
+📫. Feel free to reach me on my [LinkedIn account](https://linkedin.com/in/valentin-le-lievre) or with my [email](valentin.le_lievre@etu.sorbonne-universite.fr)
+
+<!--
+**valentin-llv/valentin-llv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
