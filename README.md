@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Valentin Le Lievre
+## Hi👋, I'm Ayoub LADJICI
 
 🌱. I'm studying electronic and computer science at Polytech Sorbonne in Paris France but in my free time I like to use my fronted dev skills.
 
