@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced microcontroller programming, radar 2D mapping, and AI-driven job recommendation systems.
 - 💞️ I’m looking to collaborate on IoT projects, AI-based applications, and innovative solutions for smart environments.
 - 📫. Feel free to reach me on my [LinkedIn account](https://www.linkedin.com/in/ayoub-ladjici-560528238/) or with my [email](ayoub.ladjici@outlook.com)
-
+![Book Logo](https://your-image-hosting-link.com/book-logo.png)
 <!--
 **valentin-llv/valentin-llv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
