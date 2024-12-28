@@ -8,7 +8,4 @@
 
 ![GitHub Snake Animation Dark Mode](./dist/github-snake-dark.svg)
 
-### 🌊 Ocean Snake (GIF)
-
-![GitHub Snake Ocean Animation](./dist/ocean.gif)
 
