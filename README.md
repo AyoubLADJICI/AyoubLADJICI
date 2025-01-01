@@ -11,14 +11,6 @@
 
 ## 🌑 Snake Animation
 
-![Snake animation](https://github.com/AyoubLADJICI/AyoubLADJICI/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
 ![GitHub Snake Animation Dark Mode](./dist/github-snake-dark.svg)
 
 
