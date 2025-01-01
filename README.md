@@ -11,7 +11,7 @@
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://https://streak-stats.demolab.com/?user=AyoubLADJICI&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AyoubLADJICI&theme=tokyonight&hide_border=true)
 
 
 ### 🌑 Dark Mode Snake
