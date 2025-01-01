@@ -9,12 +9,6 @@
 ![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLADJICI&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubLADJICI&layout=compact&theme=radical&hide_border=true)
 
-## 🔥 GitHub Streak Stats (Alternative)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyoubLADJICI&theme=tokyonight&hide_border=true)
-
-
-
 ### 🌑 Dark Mode Snake
 
 ![GitHub Snake Animation Dark Mode](./dist/github-snake-dark.svg)
