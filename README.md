@@ -9,7 +9,15 @@
 ![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLADJICI&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubLADJICI&layout=compact&theme=radical&hide_border=true)
 
-## 🌑 Dark Mode Snake
+## 🌑 Snake Animation
+
+![Snake animation](https://github.com/AyoubLADJICI/AyoubLADJICI/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 
 ![GitHub Snake Animation Dark Mode](./dist/github-snake-dark.svg)
 
