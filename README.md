@@ -4,9 +4,11 @@
 - 👀 I’m interested in embedded systems, IoT, cybersecurity and AI.
 - 📫 Feel free to reach me on my [LinkedIn account](https://www.linkedin.com/in/ayoub-ladjici-560528238/) or with my [email](ayoub.ladjici@outlook.com)
 
-## 📊 Stats
+## 🚀 GitHub Stats & Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubLADJICI&layout=compact&langs_count=10&theme=dark)
+![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLADJICI&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubLADJICI&layout=compact&langs_count=10&theme=dark&hide_border=true)
+
 
 ### 🌑 Dark Mode Snake
 
