@@ -6,8 +6,7 @@
 
 ## 🚀 GitHub Stats & Languages
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyoubLADJICI&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubLADJICI&layout=compact&theme=radical&hide_border=true)
+
 
 ## 🌑 Snake Animation
 
