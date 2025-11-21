@@ -13,4 +13,7 @@
 
 ![GitHub Snake Animation Dark Mode](./dist/github-snake-dark.svg)
 
+![CI](https://github.com/AyoubLADJICI/Social-Media-Platform/actions/workflows/ci.yml/badge.svg)
+
+
 
